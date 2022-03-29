@@ -1,2 +1,2 @@
 My Readme File
-Rudo C
+Rudo Chitsa
